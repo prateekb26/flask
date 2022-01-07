@@ -21,7 +21,6 @@ def result():
 
 @app.route('/success')
 def success():
-    `
     return "logged in successfully"
 
 
